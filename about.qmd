@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+Hi! My hobbies include learning languages and baking.
