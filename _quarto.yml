@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - section*.qmd
+    - "*.qmd"
+    - "!ignored.qmd"
+    - "!ignored-dir/"
+    
+website:
+  title: "Shiao-li Green"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
