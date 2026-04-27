@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Linguistic Misinformation Markers: An analysis of linguistic markers used to identify false, opinionated, and verified news headlines.\nSentiment Analysis: Movie Reviews: A step-by-step guide to building a sentiment analysis model using movie review data.\nWater Pump Prediction: Predicting the operating condition of water pumps to improve maintenance operations.\n\nNewer projects incoming soon!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shiao-li Green",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hi! My hobbies include learning languages and baking."
+    "text": "Hi! I’m a Data Scientist with a specialisation in Computational Linguistics. I’m passionate about Education Technology and learning languages.\nMy hobbies include baking and singing in choirs. I also enjoy playing Wingspan."
   }
 ]

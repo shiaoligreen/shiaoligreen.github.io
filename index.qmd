@@ -2,6 +2,6 @@
 title: "Shiao-li Green"
 ---
 
-This is a Quarto website.
+Hi! I'm a Data Scientist with a specialisation in Computational Linguistics. I'm passionate about Education Technology and learning languages.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My hobbies include baking and singing in choirs. I also enjoy playing Wingspan.

@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+
+* **[Linguistic Misinformation Markers](https://masterdatascience.ubc.ca/why-data-science/data-stories/linguistics-markers-false-opinionated-and-verified-news-headlines-and)**:
+  An analysis of linguistic markers used to identify false, opinionated, and verified news headlines. 
+  
+* **[Sentiment Analysis: Movie Reviews](https://medium.com/data-science/sentiment-analysis-a-how-to-guide-with-movie-reviews-9ae335e6bcb2)**:
+  A step-by-step guide to building a sentiment analysis model using movie review data.
+  
+* **[Water Pump Prediction](https://medium.com/data-science/pump-it-up-predict-water-pump-condition-using-data-science-2839d26638b8)**:
+  Predicting the operating condition of water pumps to improve maintenance operations.
+  
+*Newer projects incoming soon!*
